@@ -1,0 +1,9 @@
+## Interface: 70000
+## Title: Ion (LEGION MIGRATE)
+## Version: 1.0.0
+## Author: anon
+
+## SavedVariables: IonGDB, IonItemCache, IonProfilesDB
+## SavedVariablesPerCharacter: IonCDB, IonSpec
+
+core.lua
